@@ -1,5 +1,5 @@
 # ✨ Hi, I'am Jennifer
-<Computer engineering student, currently focused on front-end development.<br/>
+<Computer engineering student, currently focused on Web development.<br/>
 I'm familiar with python development and data science, C language and a bit of MYSQL database.<br/>
 I love learning about development, so I make it my hobby, recognizing that the path is long, but always willing to acquire more and more knowledge... />
 
