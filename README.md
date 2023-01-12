@@ -19,5 +19,4 @@ I love learning about development, so I make it my hobby, recognizing that the p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jennifermedeiross&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-![Snake animation](https://github.com/jennifermedeiross/jennifermedeiross/blob/output/github-contribution-grid-snake.svg)
+ 
