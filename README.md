@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=319299&heigth=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b4d0f0&heigth=120&section=header"/>
 
-[![typing SVG](https://readme-typing-svg.herokuapp.com/?color=319299&size=35&center=true&vCenter=true&width=1000&lines=Hello!+:%29;My+name+is+Jennifer+Medeiros!;I'm+19+years+old+and...;I+graduated+Computer+Engineering;Here+are+my+projects;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![typing SVG](https://readme-typing-svg.herokuapp.com/?color=61DAFB&size=35&center=true&vCenter=true&width=1000&lines=Hello!+:%29;My+name+is+Jennifer+Medeiros!;I'm+19+years+old+and...;I+graduated+Computer+Engineering;Here+are+my+projects;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-medeiros-b9b32a138/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jennifermedeiross) 
 
@@ -26,12 +26,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jennifermedeiross&bg_color=20232a&color=fcfcfc&line=61dafb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jennifermedeiross&theme=react&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api?username=jennifermedeiross&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jennifermedeiross&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=319299&heigth=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b4d0f0&heigth=120&section=footer"/>
  
