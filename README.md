@@ -21,8 +21,6 @@
 
 # 📊 GitHub Stats:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jennifermedeiross&bg_color=20232a&color=fcfcfc&line=4682B4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div>
  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
  <img heigth="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=jennifermedeiross&theme=tokyonight&hide_border=false" />
