@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb3aa&heigth=120&section=header"/>
 
-[![typing SVG](https://readme-typing-svg.herokuapp.com/?color=bdb3aa&size=35&center=true&vCenter=true&width=1000&lines=Hello!+:%29;My+name+is+Jennifer+Medeiros!;I'm+19+years+old+and...;I'm+a+computer+engineering+student.;Here+are+my+projects;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![typing SVG](https://readme-typing-svg.herokuapp.com/?color=bdb3aa&size=35&center=true&vCenter=true&width=1000&lines=Hello!+:%29;My+name+is+Jennifer+Medeiros!;I'm+a+computer+engineering+student.;Here+are+my+projects;Be+welcome!+:%29)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jennifermedeiross/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jennifermedeiross) 
 
