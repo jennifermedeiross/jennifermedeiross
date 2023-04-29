@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&heigth=120&section=header"/>
 
-![typing SVG](https://readme-typing-svg.herokuapp.com/?color=258f76&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!+:%29)
+![typing SVG](https://readme-typing-svg.herokuapp.com/?color=258f76&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!;I'm+Jennifer+Medeiros+:%29)
 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jennifermedeiross/)
 
