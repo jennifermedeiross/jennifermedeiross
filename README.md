@@ -33,5 +33,8 @@
   <img  height="220em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&langs_count=16&theme=gotham"/>
 </div>
-
+<hr/>
+![Snake animation](https://github.com/jennifermedeiross/jennifermedeiross/blob/output/github-contribution-grid-snake.svg)
+<hr/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&heigth=120&section=footer"/>
+
