@@ -1,32 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb3aa&heigth=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&heigth=120&section=header"/>
 
-[![typing SVG](https://readme-typing-svg.herokuapp.com/?color=bdb3aa&size=35&center=true&vCenter=true&width=1000&lines=Hello!+:%29;My+name+is+Jennifer+Medeiros!;I'm+a+computer+engineering+student.;Here+are+my+projects;Be+welcome!+:%29)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jennifermedeiross/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jennifermedeiross) 
+![typing SVG](https://readme-typing-svg.herokuapp.com/?color=258f76&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!+:%29)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br/> 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jennifermedeiross/)
 
-# 📚 StudyStack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<hr/>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+    <h1 align="center" color=#258f76>💻 Tech Stack</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="numpy-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+    <img align="center" height="30" width="40" alt="pandas-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </div>
 
-# 📊 GitHub Stats:
+  <div style="display: inline_block"><br>
+    <h1 align="center">📚 StudyStack</h1>
+    <img align="center" height="30" width="30" alt="cpp-icon" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png">
+  </div>
+</div>
+<hr/>
+   
+<div align="center">
+  <img  height="220em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&langs_count=16&theme=gotham"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=jennifermedeiross&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jennifermedeiross&theme=ayu-mirage&hide_border=false)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=jennifermedeiross&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb3aa&heigth=120&section=footer"/>
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&heigth=120&section=footer"/>
