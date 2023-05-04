@@ -29,7 +29,6 @@
 <div align="center">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&hide_border=true&title_color=685cc4&icon_color=685cc4&text_color=c9d1d9&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&hide_border=true&title_color=685cc4&text_color=685cc4&bg_color=0d1117"/>
-  <img align="rigth" height="200" alt="avatar" src="https://user-images.githubusercontent.com/106833007/236217851-7f6b2bd3-a92e-4170-acfc-8b89184bf400.png">
 </div> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jennifermedeiross&bg_color=0d1117&color=685cc4&line=685cc4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
