@@ -35,7 +35,5 @@
 
 <hr/>
 
-<img height="250em" src="https://github.com/jennifermedeiross/jennifermedeiross/blob/output/github-contribution-grid-snake.svg" />
-<hr/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=685cc4&heigth=120&section=footer"/>
 
