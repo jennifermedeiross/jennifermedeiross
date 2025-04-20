@@ -13,14 +13,14 @@
     <img align="center" height="30" width="40" alt="numpy-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
     <img align="center" height="30" width="40" alt="pandas-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="30" alt="cpp-icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
 
   <div style="display: inline_block"><br>
     <h1 align="center" >📚 StudyStack</h1>
       <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="30" alt="cpp-icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png">
   </div><hr/>
