@@ -5,25 +5,38 @@
 <hr/>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-    <h1 align="center" color=#258f76>💻 Tech Stack</h1>
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="numpy-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-    <img align="center" height="30" width="40" alt="pandas-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="30" alt="cpp-icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </div>
+    <img align="left" height="300" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<div align="center">
 
-  <div style="display: inline_block"><br>
-    <h1 align="center" >📚 StudyStack</h1>
-      <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png">
-  </div><hr/>
+<p align="justify">
+
+A Computer Science student at <b>UFCG</b> and PDI scholar at <b>LSI – UFCG</b>.  
+Passionate about <b>technology, music and art</b>, I see learning as a way to <b>explore new worlds and turn curiosity into knowledge</b>.  
+
+I like to lose myself in <b>music and art</b>, because in them I find the same freedom I feel when programming:  
+For me, studying is about <b>exploring invisible worlds, opening paths, and transforming curiosity into knowledge</b>.  
+
+</p>
+
+<div align="center">
+
+  #### Tech Stack  
+  
+  <p margin-left="60">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="35" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" height="35" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" height="35" />
+  </p>
+</div>
+
+---
 </div>
    
 <div align="center">
