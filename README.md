@@ -1,20 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=685cc4&heigth=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b79e4b&heigth=120&section=header"/>
 
-![typing SVG](https://readme-typing-svg.herokuapp.com/?color=685cc4&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!;I'm+Jennifer+Medeiros+:%29)
+![typing SVG](https://readme-typing-svg.herokuapp.com/?color=b79e4b&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!;I'm+Jennifer+Medeiros+:%29)
 
 <hr/>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+    <img align="left" height="300" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ6a2FodjdsY2Z4ZTh6dWg1Y2J1cGE3NGw5NTRtc2lrcnZqc2dsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif">
 <div align="center">
 
 <p align="justify">
 
-A Computer Science student at <b>UFCG</b> and PDI scholar at <b>LSI – UFCG</b>.  
-Passionate about <b>technology, music and art</b>, I see learning as a way to <b>explore new worlds and turn curiosity into knowledge</b>.  
+A Computer Science student at UFCG and PDI scholar at LSI – UFCG.  
+Passionate about technology, music and art, I see learning as a way to explore new worlds and turn curiosity into knowledge.  
 
-I like to lose myself in <b>music and art</b>, because in them I find the same freedom I feel when programming:  
-For me, studying is about <b>exploring invisible worlds, opening paths, and transforming curiosity into knowledge</b>.  
+I like to lose myself in music and art, because in them I find the same freedom I feel when programming:  
+For me, studying is about exploring invisible worlds, opening paths, and transforming curiosity into knowledge.  
 
 </p>
 
@@ -40,13 +40,13 @@ For me, studying is about <b>exploring invisible worlds, opening paths, and tran
 </div>
    
 <div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&hide_border=true&title_color=685cc4&icon_color=685cc4&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&hide_border=true&title_color=685cc4&text_color=685cc4&bg_color=0d1117"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&hide_border=true&title_color=b79e4b&icon_color=b79e4b&text_color=b79e4b&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&hide_border=true&title_color=b79e4b&text_color=b79e4b&bg_color=0d1117"/>
 </div> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=685cc4&line=685cc4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=b79e4b&line=b79e4b&point=c96e12&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=685cc4&heigth=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b79e4b&heigth=120&section=footer"/>
 
