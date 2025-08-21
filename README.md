@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b79e4b&heigth=120&section=header"/>
 
-![typing SVG](https://readme-typing-svg.herokuapp.com/?color=b79e4b&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!;I'm+Jennifer+Medeiros+:%29)
+![typing SVG](https://readme-typing-svg.herokuapp.com/?color=c96e12&size=35&center=true&vCenter=true&width=1000&lines=Be+welcome!;I'm+Jennifer+Medeiros+:%29)
 
 <hr/>
 <div  align="center"> 
@@ -40,11 +40,11 @@ For me, studying is about exploring invisible worlds, opening paths, and transfo
 </div>
    
 <div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&hide_border=true&title_color=b79e4b&icon_color=b79e4b&text_color=b79e4b&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&hide_border=true&title_color=b79e4b&text_color=b79e4b&bg_color=0d1117"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&hide_border=true&title_color=c96e12&icon_color=b79e4b&text_color=b79e4b&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&hide_border=true&title_color=c96e12&text_color=b79e4b&bg_color=0d1117"/>
 </div> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=b79e4b&line=b79e4b&point=c96e12&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=c96e08&line=b79e4b&point=c96e08&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
 
