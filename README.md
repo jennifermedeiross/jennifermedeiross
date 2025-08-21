@@ -44,7 +44,7 @@ For me, studying is about exploring invisible worlds, opening paths, and transfo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&hide_border=true&title_color=fdc616&text_color=ffee8c&bg_color=0d1117"/>
 </div> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=fdc616&line=ffee8c&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=fdc616&line=fff&point=ffee8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
 
