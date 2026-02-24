@@ -39,10 +39,10 @@ For me, studying is about exploring invisible worlds, opening paths, and transfo
 ---
 </div>
    
-<div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&title_color=fdc616&icon_color=b79e4b&text_color=ffee8c&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&title_color=fdc616&text_color=ffee8c&bg_color=0d1117"/>
-</div> 
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermedeiross&show_icons=true&count_private=true&title_color=fdc616&icon_color=b79e4b&text_color=ffee8c&bg_color=0d1117&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermedeiross&layout=compact&title_color=fdc616&text_color=ffee8c&bg_color=0d1117&v=1"/>
+</p> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jennifermedeiross&bg_color=0d1117&color=fdc616&line=fff&point=ffee8c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
